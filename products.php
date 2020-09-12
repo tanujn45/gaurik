@@ -24,56 +24,72 @@
 
     <section id="products">
         <div class="container">
-            <h3 class="mb-4" style="color: #ffc93c; text-align: center">Gaurik Milk</h3>
+            <?php
+            include "includes/conn.php";
+            $sql = "SELECT * FROM milk";
+            $result = mysqli_query($conn, $sql);
+            ?>
+            <h3>Gaurik Milk</h3>
+            <h6 class="mb-4">Swaad malwa ka</h6>
             <div class="row justify-content-center align-items-center">
-                <div class="col-lg-3">
-                    <div class="mx-3 mb-5 milk">
-                        <a href="">
-                            <img class="img-fluid" src="img/milk/milk1.png" alt="">
-                            <p class="btn mt-3">Chai Super</p>
-                        </a>
-                    </div>
+                <?php
+                if (mysqli_num_rows($result) > 0) {
+                    while ($row = mysqli_fetch_assoc($result)) {
+                ?>
+                        <div data-aos="fade-up" class="col-lg-3 col-md-4 col-sm-6">
+                            <div class="mx-3 mb-5 milk">
+                                <a href="productSingle.php?post=<?php echo $row['id'] ?>">
+                                    <img src="img/milk/<?php echo $row['image'] ?>" alt="Milk Image" class="img-fluid">
+                                    <p class="btn mt-3"><?php echo $row['name'] ?></p>
+                                </a>
+                            </div>
+                        </div>
+                <?php
+                    }
+                }
+                ?>
+            </div>
+
+            <div class="row justify-content-center align-items-center mt-5">
+                <div class="col-lg-2">
                 </div>
-                <div class="col-lg-3">
-                    <div class="mx-3 mb-5 milk">
-                        <a href="">
-                            <img class="img-fluid" src="img/milk/milk2.png" alt="">
-                            <p class="btn mt-3">Chai Super</p>
-                        </a>
-                    </div>
+                <div class="col-lg-3 px-3" data-aos="fade-up">
+                    <img src="img/milk/ghee.png" class="img-fluid mb-3" alt="">
                 </div>
-                <div class="col-lg-3">
-                    <div class="mx-3 mb-5 milk">
-                        <a href="">
-                            <img class="img-fluid" src="img/milk/milk3.png" alt="">
-                            <p class="btn mt-3">Chai Super</p>
-                        </a>
-                    </div>
+                <div class="col-lg-5" data-aos="fade-up">
+                    <h3 style="text-align: left">Gaurik desi ghee (15Kg tin)</h3>
+                    <h6 style="text-align: left">Shudhata me no compromise</h6>
+                    <a href="productSingle.php?post=20">
+                        <p class="btn mt-3">desi ghee</p>
+                    </a>
                 </div>
-                <div class="col-lg-3">
-                    <div class="mx-3 mb-5 milk">
-                        <a href="">
-                            <img class="img-fluid" src="img/milk/milk4.png" alt="">
-                            <p class="btn mt-3">Chai Super</p>
-                        </a>
-                    </div>
+                <div class="col-lg-2">
                 </div>
-                <div class="col-lg-3">
-                    <div class="mx-3 mb-5 milk">
-                        <a href="">
-                            <img class="img-fluid" src="img/milk/milk5.png" alt="">
-                            <p class="btn mt-3">Chai Super</p>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="mx-3 mb-5 milk">
-                        <a href="">
-                            <img class="img-fluid" src="img/milk/milk6.png" alt="">
-                            <p class="btn mt-3">Chai Super</p>
-                        </a>
-                    </div>
-                </div>
+            </div>
+
+            <?php
+            $sql = "SELECT * FROM buttermilk";
+            $result = mysqli_query($conn, $sql);
+            ?>
+            <h3 class="mt-5">Gaurik Butter Milk</h3>
+            <h6 class="mb-4">Refreshing</h6>
+            <div class="row justify-content-center align-items-center">
+                <?php
+                if (mysqli_num_rows($result) > 0) {
+                    while ($row = mysqli_fetch_assoc($result)) {
+                ?>
+                        <div data-aos="fade-up" class="col-lg-3 col-md-4 col-sm-6">
+                            <div class="mx-3 mb-5 milk">
+                                <a href="productSingle.php?post=<?php echo $row['id'] ?>">
+                                    <img src="img/milk/<?php echo $row['image'] ?>" alt="Milk Image" class="img-fluid">
+                                    <p class="btn mt-3"><?php echo $row['name'] ?></p>
+                                </a>
+                            </div>
+                        </div>
+                <?php
+                    }
+                }
+                ?>
             </div>
         </div>
     </section>

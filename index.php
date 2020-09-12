@@ -9,11 +9,32 @@
     <?php include "includes/navbar.php" ?>
 
     <!-- Hero -->
-    <section id="hero">
-        <div class="container">
-            <div class="row justify-content-center align-items-center full-height">
-                <div class="mx-1">
-                    <h1>Tag line for Gaurik Dairy</h1>
+    <section id="hero" class="hero-area">
+        <div class="hero-slideshow owl-carousel">
+            <div class="single-slide">
+                <div class="slide-bg-img bg-img" style="background-image: url(img/company/plant1.jpg)"></div>
+                <div class="slide-bg-img bg-img" style="background-image: linear-gradient(rgba(4, 92, 140, 0.4), rgba(0, 0, 0, 0.9))"></div>
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <div class="col-12 col-lg-9">
+                            <div class="welcome-text">
+                                <h2>The Gaurik milk</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="single-slide">
+                <div class="slide-bg-img bg-img" style="background-image: url(img/company/plant2.jpg)"></div>
+                <div class="slide-bg-img bg-img" style="background-image: linear-gradient(rgba(4, 92, 140, 0.4), rgba(0, 0, 0, 0.9))"></div>
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <div class="col-12 col-lg-9">
+                            <div class="welcome-text">
+                                <h1>The Gaurik milk</h1>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -22,7 +43,7 @@
     <section id="workers">
         <div class="container">
             <div class="row justify-content-center align-items-center">
-                <div data-aos="fade-right" class="col-lg-4">
+                <div data-aos="fade-up" class="col-lg-4 mb-5">
                     <h3>The Gaurik Family</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium dignissimos facere inventore nemo? Fuga, facilis. Illo quisquam sit totam optio!</p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum delectus quod expedita molestiae recusandae possimus natus alias sit?</p>
@@ -37,34 +58,55 @@
 
     <section id="sold">
         <div class="container">
-            <div data-aos="zoom-in-up" class="row justify-content-center">
-                <div class="col-lg-7 sold-container curved-border">
-                    <h1><span class="counter">30,000</span></h1>
-                    <h4>Litres of milk sold</h4>
+            <div class="row justify-content-center align-items-center">
+                <div data-aos="fade-up" class="col-lg-7 mb-5">
+                    <div class="mx-1">
+                        <div class="owl-carousel plant-carousel owl-theme">
+                            <div class="item"><img class="img-fluid" src="img/company/plant1.jpg" alt=""></div>
+                            <div class="item"><img class="img-fluid" src="img/company/plant2.jpg" alt=""></div>
+                            <div class="item"><img class="img-fluid" src="img/company/plant3.jpg" alt=""></div>
+                            <div class="item"><img class="img-fluid" src="img/company/plant4.jpg" alt=""></div>
+                            <div class="item"><img class="img-fluid" src="img/company/plant5.jpg" alt=""></div>
+                            <div class="item"><img class="img-fluid" src="img/company/plant6.jpg" alt=""></div>
+                        </div>
+                    </div>
+                </div>
+                <div data-aos="fade-up" class="col-lg-5 mb-5">
+                    <div class="mx-1 sold-container curved-border">
+                        <h1><span id='counterUp' class="counter">30000</span>k</h1>
+                        <h4>Litres of milk sold</h4>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <div class="container-fluid">
-        <section id="commitment">
-            <div class="container">
-                <div data-aos="zoom-in-down" data-aos-delay="500" class="row justify-content-center align-items-center full-height">
-                    <h3>At Gaurik Dairy, we aim to be the most trusted source of wholesome, delicious dairy products for every occasion. We never forget how fortunate we are to be invited into your home. And we earn our place by holding ourselves to the highest standards.</h3>
+
+    <section id="commitment">
+        <div class="container">
+            <div class="commitment-container curved-border">
+                <div class="pl-2">
+                    <div data-aos="zoom-in-down" data-aos-delay="500" class="row justify-content-center align-items-center" style="height: 70vh;">
+                        <div>
+                            <h6>Our commitment</h6>
+                            <h4 class="px-5">At Gaurik Dairy, we aim to be the most trusted source of wholesome, delicious dairy products for every occasion. We never forget how fortunate we are to be invited into your home. And we earn our place by holding ourselves to the highest standards.</h4>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </section>
-    </div>
+        </div>
+    </section>
 
     <section id="home-products">
-        <div data-aos="zoom-out-up" class="container">
-            <div class="owl-carousel owl-theme">
-                <div class="item"><img src="img/milk/milk1.jpg" alt=""></div>
-                <div class="item"><img src="img/milk/milk2.jpg" alt=""></div>
-                <div class="item"><img src="img/milk/milk3.jpg" alt=""></div>
-                <div class="item"><img src="img/milk/milk4.jpg" alt=""></div>
-                <div class="item"><img src="img/milk/milk5.jpg" alt=""></div>
-                <div class="item"><img src="img/milk/milk6.jpg" alt=""></div>
+        <div data-aos="zoom-in-up" class="container">
+            <div class="owl-carousel products-carousel owl-theme">
+                <div class="item"><img src="img/milk/chai-super.png" alt=""></div>
+                <div class="item"><img src="img/milk/double-toned-balak.png" alt=""></div>
+                <div class="item"><img src="img/milk/double-toned-energy.png" alt=""></div>
+                <div class="item"><img src="img/milk/gold-premium.png" alt=""></div>
+                <div class="item"><img src="img/milk/slim-and-safe.png" alt=""></div>
+                <div class="item"><img src="img/milk/standard-power.png" alt=""></div>
+                <div class="item"><img src="img/milk/toned-fresh.png" alt=""></div>
             </div>
             <div class="justify-content-center row">
                 <a href="products.php" class="btn">Products</a>
