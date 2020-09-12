@@ -59,24 +59,26 @@
         <div class="container-fluid">
             <div class="row justify-content-center align-items-center">
                 <div data-aos="zoom-in-down" class="col-lg-4 mb-5">
-                    <div class="mx-1 px-4 pt-5 pb-5 curved-border blue">
+                    <div class="mx-1 px-4 pt-5 pb-5 box curved-border blue">
                         <img src="img/vision.png" class="img-fluid" alt="">
                         <h5>Vision</h5>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor repellendus tempora minus nesciunt iste. Commodi esse ratione earum aut sint tempora libero omnis hic iusto ducimus Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, fugiat. nobis repellat, nam impedit ipsum fugiat odit? Cupiditate, dolore!</p>
+                        <p>The vision of Gaurik is to be amongst the best dairy products provider in India. To work for the upliftment of farmers and other people working in primary sector. To grow consistently and exponentially in terms of Customer base and production facility. To practice highest standards of corporate governance. To acquire and utilize resources in the most effective and efficient manner. To provide best resources and work environment to our employees.</p>
                     </div>
                 </div>
                 <div data-aos="zoom-in-up" class="col-lg-4 mb-5">
-                    <div class="mx-1 px-4 pt-5 pb-5 curved-border orange">
+                    <div class="mx-1 px-4 pt-5 pb-5 box curved-border orange">
                         <img src="img/values.png" class="img-fluid" alt="">
                         <h5>Values</h5>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor repellendus tempora minus nesciunt iste. Commodi esse ratione earum aut sint tempora libero omnis hic iusto ducimus Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, fugiat. nobis repellat, nam impedit ipsum fugiat odit? Cupiditate, dolore!</p>
+                        <p><span style="text-transform: uppercase; font-family: 'Open Sans', sans-serif; font-weight: 600">Excellence</span> - We are determined to achieve the highest standards of quality.</p>
+                        <p><span style="text-transform: uppercase; font-family: 'Open Sans', sans-serif; font-weight: 600">Purity</span> - We ensure purity of product, strictly against any form of adulteration.</p>
+                        <p><span style="text-transform: uppercase; font-family: 'Open Sans', sans-serif; font-weight: 600">Responsibility</span> - We take complete responsibility of the work that we do and the products that we deliver.</p>
                     </div>
                 </div>
                 <div data-aos="zoom-in-down" class="col-lg-4 mb-5">
-                    <div class="mx-1 px-4 pt-5 pb-5 curved-border blue">
+                    <div class="mx-1 px-4 pt-5 pb-5 box curved-border blue">
                         <img src="img/mission.png" class="img-fluid" alt="">
                         <h5>Mission</h5>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor repellendus tempora minus nesciunt iste. Commodi esse ratione earum aut sint tempora libero omnis hic iusto ducimus Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, fugiat. nobis repellat, nam impedit ipsum fugiat odit? Cupiditate, dolore!</p>
+                        <p>Here with Gaurik, We aim to empower all the sections of society by providing them the best in class dairy products. We further work with the intent to provide strength to farmers and people working in the Agricultural ecosystem. We are dedicated to provide best product to our customers, best prices to our vendors and world-class facility to our employees.</p>
                     </div>
                 </div>
             </div>
@@ -103,7 +105,7 @@
         <section id="future">
             <div class="container">
                 <div class="row justify-content-center align-items-center">
-                    <div class="col-lg-6 box">
+                    <div class="col-lg-6">
                         <img src="img/company/future.jpg" class="img-fluid curved-border" alt="">
                     </div>
                     <div class="col-lg-6">

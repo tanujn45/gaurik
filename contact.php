@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -43,16 +46,27 @@
                 </div>
                 <div data-aos="zoom-in" class="col-lg-6">
                     <div class="form curved-border box">
+                        <?php
+                        if (isset($_SESSION['sent'])) {
+                            $sent = $_SESSION['sent'];
+                            if ($sent) {
+                                echo "<h4 style='color: green;'>Message Sent!</h4 style='color: green;'>";
+                            }
+                        }
+                        ?>
                         <h3>Get in touch</h3>
-                        <form action="contact.php" method="post">
+                        <form action="sendMail.php" method="post">
                             <div class="form-group">
-                                <input class="form-control" type="text" name="name" placeholder="Name">
+                                <input class="form-control" type="text" name="name" placeholder="Name" required>
                             </div>
                             <div class="form-group">
                                 <input class="form-control" type="text" name="email" placeholder="Email">
                             </div>
                             <div class="form-group">
-                                <textarea class="form-control" rows="6" placeholder="Message"></textarea>
+                                <input class="form-control" type="text" name="phone" placeholder="Phone Number (10 Digits)" required>
+                            </div>
+                            <div class="form-group">
+                                <textarea class="form-control" rows="6" name="message" placeholder="Message" required></textarea>
                             </div>
                             <div class="row justify-content-center">
                                 <input type="submit" value="Submit" class="btn">

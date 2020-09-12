@@ -13,12 +13,13 @@
         <div class="hero-slideshow owl-carousel">
             <div class="single-slide">
                 <div class="slide-bg-img bg-img" style="background-image: url(img/company/plant1.jpg)"></div>
-                <div class="slide-bg-img bg-img" style="background-image: linear-gradient(rgba(4, 92, 140, 0.4), rgba(0, 0, 0, 0.9))"></div>
+                <div class="slide-bg-img bg-img" style="background-image: linear-gradient(rgba(4, 92, 140, 0.4), rgba(4, 92, 140, 0.6))"></div>
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <div class="col-12 col-lg-9">
                             <div class="welcome-text">
-                                <h2>The Gaurik milk</h2>
+                                <h1><span style="color: #ffc93c">The</span> Gaurik milk</h1>
+                                <h4>Swaad malwa ka</h4>
                             </div>
                         </div>
                     </div>
@@ -26,12 +27,13 @@
             </div>
             <div class="single-slide">
                 <div class="slide-bg-img bg-img" style="background-image: url(img/company/plantout1.jpg)"></div>
-                <div class="slide-bg-img bg-img" style="background-image: linear-gradient(rgba(4, 92, 140, 0.4), rgba(0, 0, 0, 0.9))"></div>
+                <div class="slide-bg-img bg-img" style="background-image: linear-gradient(rgba(4, 92, 140, 0.4), rgba(4, 92, 140, 0.6))"></div>
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <div class="col-12 col-lg-9">
                             <div class="welcome-text">
-                                <h2>The Gaurik milk</h2>
+                                <h1><span style="color: #ffc93c">The</span> Gaurik milk</h1>
+                                <h4>Swaad malwa ka</h4>
                             </div>
                         </div>
                     </div>
@@ -39,12 +41,13 @@
             </div>
             <div class="single-slide">
                 <div class="slide-bg-img bg-img" style="background-image: url(img/company/plantout2.jpg)"></div>
-                <div class="slide-bg-img bg-img" style="background-image: linear-gradient(rgba(4, 92, 140, 0.4), rgba(0, 0, 0, 0.9))"></div>
+                <div class="slide-bg-img bg-img" style="background-image: linear-gradient(rgba(4, 92, 140, 0.4), rgba(4, 92, 140, 0.6))"></div>
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <div class="col-12 col-lg-9">
                             <div class="welcome-text">
-                                <h1>The Gaurik milk</h1>
+                                <h1><span style="color: #ffc93c">The</span> Gaurik milk</h1>
+                                <h4>Swaad malwa ka</h4>
                             </div>
                         </div>
                     </div>
@@ -52,12 +55,13 @@
             </div>
             <div class="single-slide">
                 <div class="slide-bg-img bg-img" style="background-image: url(img/company/plantout3.jpg)"></div>
-                <div class="slide-bg-img bg-img" style="background-image: linear-gradient(rgba(4, 92, 140, 0.4), rgba(0, 0, 0, 0.9))"></div>
+                <div class="slide-bg-img bg-img" style="background-image: linear-gradient(rgba(4, 92, 140, 0.4), rgba(4, 92, 140, 0.6))"></div>
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <div class="col-12 col-lg-9">
                             <div class="welcome-text">
-                                <h1>The Gaurik milk</h1>
+                                <h1><span style="color: #ffc93c">The</span> Gaurik milk</h1>
+                                <h4>Swaad malwa ka</h4>
                             </div>
                         </div>
                     </div>

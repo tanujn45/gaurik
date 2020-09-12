@@ -50,20 +50,48 @@
                 ?>
             </div>
 
+            <h3>Gaurik desi ghee (15Kg tin)</h3>
+            <h6>Shudhata me no compromise</h6>
             <div class="row justify-content-center align-items-center mt-5">
-                <div class="col-lg-2">
+                <div class="col-lg-3 col-md-4 col-sm-6" data-aos="fade-up">
+                    <div class="mx-3 mb-5 milk">
+                        <a href="productSingle.php?post=20">
+                            <img src="img/milk/ghee.png" class="img-fluid mb-3" alt="">
+                            <p class="btn mt-3">desi ghee (15kg tin)</p>
+                        </a>
+                    </div>
                 </div>
-                <div class="col-lg-3 px-3" data-aos="fade-up">
-                    <img src="img/milk/ghee.png" class="img-fluid mb-3" alt="">
+                <div class="col-lg-3 col-md-4 col-sm-6" data-aos="fade-up">
+                    <div class="mx-3 mb-5 milk">
+                        <a href="productSingle.php?post=20">
+                            <img src="img/milk/ghee.png" class="img-fluid mb-3" alt="">
+                            <p class="btn mt-3">desi ghee (5L tin)</p>
+                        </a>
+                    </div>
                 </div>
-                <div class="col-lg-5" data-aos="fade-up">
-                    <h3 style="text-align: left">Gaurik desi ghee (15Kg tin)</h3>
-                    <h6 style="text-align: left">Shudhata me no compromise</h6>
-                    <a href="productSingle.php?post=20">
-                        <p class="btn mt-3">desi ghee</p>
-                    </a>
+                <div class="col-lg-3 col-md-4 col-sm-6" data-aos="fade-up">
+                    <div class="mx-3 mb-5 milk">
+                        <a href="productSingle.php?post=20">
+                            <img src="img/milk/ghee.png" class="img-fluid mb-3" alt="">
+                            <p class="btn mt-3">desi ghee (1L)</p>
+                        </a>
+                    </div>
                 </div>
-                <div class="col-lg-2">
+                <div class="col-lg-3 col-md-4 col-sm-6" data-aos="fade-up">
+                    <div class="mx-3 mb-5 milk">
+                        <a href="productSingle.php?post=20">
+                            <img src="img/milk/ghee.png" class="img-fluid mb-3" alt="">
+                            <p class="btn mt-3">desi ghee (500ML)</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6" data-aos="fade-up">
+                    <div class="mx-3 mb-5 milk">
+                        <a href="productSingle.php?post=20">
+                            <img src="img/milk/ghee.png" class="img-fluid mb-3" alt="">
+                            <p class="btn mt-3">desi ghee (200ML)</p>
+                        </a>
+                    </div>
                 </div>
             </div>
 
