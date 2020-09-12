@@ -25,7 +25,33 @@
                 </div>
             </div>
             <div class="single-slide">
-                <div class="slide-bg-img bg-img" style="background-image: url(img/company/plant2.jpg)"></div>
+                <div class="slide-bg-img bg-img" style="background-image: url(img/company/plantout1.jpg)"></div>
+                <div class="slide-bg-img bg-img" style="background-image: linear-gradient(rgba(4, 92, 140, 0.4), rgba(0, 0, 0, 0.9))"></div>
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <div class="col-12 col-lg-9">
+                            <div class="welcome-text">
+                                <h2>The Gaurik milk</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="single-slide">
+                <div class="slide-bg-img bg-img" style="background-image: url(img/company/plantout2.jpg)"></div>
+                <div class="slide-bg-img bg-img" style="background-image: linear-gradient(rgba(4, 92, 140, 0.4), rgba(0, 0, 0, 0.9))"></div>
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <div class="col-12 col-lg-9">
+                            <div class="welcome-text">
+                                <h1>The Gaurik milk</h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="single-slide">
+                <div class="slide-bg-img bg-img" style="background-image: url(img/company/plantout3.jpg)"></div>
                 <div class="slide-bg-img bg-img" style="background-image: linear-gradient(rgba(4, 92, 140, 0.4), rgba(0, 0, 0, 0.9))"></div>
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
@@ -55,7 +81,7 @@
             </div>
         </div>
     </section>
-
+    158.04
     <section id="sold">
         <div class="container">
             <div class="row justify-content-center align-items-center">
@@ -68,6 +94,8 @@
                             <div class="item"><img class="img-fluid" src="img/company/plant4.jpg" alt=""></div>
                             <div class="item"><img class="img-fluid" src="img/company/plant5.jpg" alt=""></div>
                             <div class="item"><img class="img-fluid" src="img/company/plant6.jpg" alt=""></div>
+                            <div class="item"><img class="img-fluid" src="img/company/plant7.jpg" alt=""></div>
+                            <div class="item"><img class="img-fluid" src="img/company/plant8.jpg" alt=""></div>
                         </div>
                     </div>
                 </div>

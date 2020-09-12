@@ -33,7 +33,9 @@
             ?>
                         <div class="row justify-content-center align-items-center">
                             <div data-aos="zoom-in-up" class="col-lg-4 mb-3">
-                                <img class="img-fluid" src="img/milk/<?php echo $row['image'] ?>" alt="">
+                                <div style="text-align: center">
+                                    <img class="img-fluid" src="img/milk/<?php echo $row['image'] ?>" alt="">
+                                </div>
                             </div>
                             <div data-aos="zoom-in-up" class="col-lg-5 mb-3">
                                 <h4><?php echo $row['name'] ?></h4>
@@ -98,7 +100,9 @@
                     ?>
                         <div class="row justify-content-center align-items-center">
                             <div data-aos="zoom-in-up" class="col-lg-4 mb-3">
-                                <img class="img-fluid" src="img/milk/<?php echo $row['image'] ?>" alt="">
+                                <div style="text-align: center">
+                                    <img class="img-fluid" src="img/milk/<?php echo $row['image'] ?>" alt="">
+                                </div>
                             </div>
                             <div data-aos="zoom-in-up" class="col-lg-5 mb-3">
                                 <h4><?php echo $row['name'] ?></h4>
@@ -145,7 +149,9 @@
                 ?>
                 <div class="row justify-content-center align-items-center">
                     <div data-aos="zoom-in-up" class="col-lg-4 mb-3">
-                        <img class="img-fluid" src="img/milk/ghee.png" alt="">
+                        <div style="text-align: center">
+                            <img class="img-fluid" src="img/milk/ghee.png" alt="">
+                        </div>
                     </div>
                     <div data-aos="zoom-in-up" class="col-lg-5 mb-3">
                         <h4>Desi Ghee (15Kg tin)</h4>

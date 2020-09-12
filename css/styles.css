@@ -468,7 +468,7 @@ p {
       rgba(4, 92, 140, 1),
       rgba(4, 92, 140, 0.7)
     ),
-    url("../img/back.jpg") top / cover no-repeat;
+    url("../img/back1.jpg") top / cover no-repeat;
 }
 
 #about {
@@ -575,7 +575,7 @@ p {
       rgba(4, 92, 140, 0.5),
       rgba(4, 92, 140, 0)
     ),
-    url("../img/milkripple2.jpg") top / cover no-repeat;
+    url("../img/milkripple.jpg") top / cover no-repeat;
 }
 
 /* Products */
@@ -713,7 +713,7 @@ td {
       rgba(4, 92, 140, 1),
       rgba(4, 92, 140, 0.5)
     ),
-    url("../img/2028.jpg") top / cover no-repeat;
+    url("../img/back3.jpg") top / cover no-repeat;
   box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
 }
 
