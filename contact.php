@@ -38,8 +38,8 @@ session_start();
                             <p>Phone: +91 7999427560</p>
                         </div>
                         <div class="social row">
-                            <i class="fab mx-3 fa-instagram"></i>
-                            <i class="fab mx-3 fa-facebook"></i>
+                            <a href="https://www.instagram.com/gaurikmilk/"><i class="fab mx-3 fa-instagram"></i></a>
+                            <a href="https://www.facebook.com/GaurikMilk/"><i class="fab mx-3 fa-facebook"></i></a>
                             <i class="fab mx-3 fa-linkedin"></i>
                         </div>
                     </div>

@@ -276,11 +276,11 @@ p {
   bottom: 0;
 }
 
-.single-slide .welcome-text {
-  /* text-align: center; */
-  /* position: relative; */
-  /* z-index: 1; */
-}
+/* .single-slide .welcome-text {
+  text-align: center;
+  position: relative;
+  z-index: 1;
+} */
 
 .single-slide .welcome-text h1 {
   font-family: "Open Sans", sans-serif;
@@ -336,32 +336,10 @@ p {
 }
 
 .single-slide .welcome-text a {
-  color: #ff7902;
-  font-size: 30px;
-  margin-top: 10px;
-}
-
-.single-slide .welcome-text a:hover {
+  background-color: #045c8c;
+  border: 3px solid #045c8c;
   color: white;
 }
-
-/* @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .single-slide {
-    height: 700px;
-  }
-}
-
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-  .single-slide {
-    height: 600px;
-  }
-}
-
-@media only screen and (max-width: 767px) {
-  .single-slide {
-    height: 550px;
-  }
-} */
 
 @-webkit-keyframes slide-bg {
   0% {

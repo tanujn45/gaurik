@@ -50,46 +50,46 @@
                 ?>
             </div>
 
-            <h3>Gaurik desi ghee (15Kg tin)</h3>
+            <h3>Gaurik desi ghee</h3>
             <h6>Shudhata me no compromise</h6>
             <div class="row justify-content-center align-items-center mt-5">
                 <div class="col-lg-3 col-md-4 col-sm-6" data-aos="fade-up">
                     <div class="mx-3 mb-5 milk">
-                        <a href="productSingle.php?post=20">
-                            <img src="img/milk/ghee.png" class="img-fluid mb-3" alt="">
-                            <p class="btn mt-3">desi ghee (15kg tin)</p>
+                        <a href="productSingle.php?post=31">
+                            <img src="img/milk/ghee15kg.png" class="img-fluid mb-3" alt="">
+                            <p class="btn mt-3">15kg tin</p>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6" data-aos="fade-up">
                     <div class="mx-3 mb-5 milk">
-                        <a href="productSingle.php?post=20">
-                            <img src="img/milk/ghee.png" class="img-fluid mb-3" alt="">
-                            <p class="btn mt-3">desi ghee (5L tin)</p>
+                        <a href="productSingle.php?post=32">
+                            <img src="img/milk/ghee5l.png" class="img-fluid mb-3" alt="">
+                            <p class="btn mt-3">5L tin</p>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6" data-aos="fade-up">
                     <div class="mx-3 mb-5 milk">
-                        <a href="productSingle.php?post=20">
-                            <img src="img/milk/ghee.png" class="img-fluid mb-3" alt="">
-                            <p class="btn mt-3">desi ghee (1L)</p>
+                        <a href="productSingle.php?post=33">
+                            <img src="img/milk/ghee1l.png" class="img-fluid mb-3" alt="">
+                            <p class="btn mt-3">1L Jar</p>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6" data-aos="fade-up">
                     <div class="mx-3 mb-5 milk">
-                        <a href="productSingle.php?post=20">
-                            <img src="img/milk/ghee.png" class="img-fluid mb-3" alt="">
-                            <p class="btn mt-3">desi ghee (500ML)</p>
+                        <a href="productSingle.php?post=34">
+                            <img src="img/milk/ghee500ml.png" class="img-fluid mb-3" alt="">
+                            <p class="btn mt-3">500ML Jar</p>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6" data-aos="fade-up">
                     <div class="mx-3 mb-5 milk">
-                        <a href="productSingle.php?post=20">
-                            <img src="img/milk/ghee.png" class="img-fluid mb-3" alt="">
-                            <p class="btn mt-3">desi ghee (200ML)</p>
+                        <a href="productSingle.php?post=35">
+                            <img src="img/milk/ghee200ml.png" class="img-fluid mb-3" alt="">
+                            <p class="btn mt-3">200ML Jar</p>
                         </a>
                     </div>
                 </div>

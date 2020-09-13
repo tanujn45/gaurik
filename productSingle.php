@@ -145,16 +145,33 @@
                 <?php
                     }
                 }
-            } elseif ($id == 20) {
+            } elseif ($id > 30) {
                 ?>
                 <div class="row justify-content-center align-items-center">
                     <div data-aos="zoom-in-up" class="col-lg-4 mb-3">
                         <div style="text-align: center">
-                            <img class="img-fluid" src="img/milk/ghee.png" alt="">
+                            <?php
+                            $name = "ghee15kg.png";
+                            $quant = "15Kg Tin";
+                            if ($id == 32) {
+                                $name = "ghee5l.png";
+                                $quant = "5L Tin";
+                            } else if ($id == 33) {
+                                $name = "ghee1l.png";
+                                $quant = "1L Jar";
+                            } else if ($id == 34) {
+                                $name = "ghee500ml.png";
+                                $quant = "500ml Jar";
+                            } else if ($id == 35) {
+                                $name = "ghee200ml.png";
+                                $quant = "200ml Jar";
+                            }
+                            ?>
+                            <img class="img-fluid" src="img/milk/<? echo $name ?>" alt="">
                         </div>
                     </div>
                     <div data-aos="zoom-in-up" class="col-lg-5 mb-3">
-                        <h4>Desi Ghee (15Kg tin)</h4>
+                        <h4>Desi Ghee (<?php echo $quant ?>)</h4>
                         <table>
                             <tr>
                                 <td class="heading">total energy</td>

@@ -95,7 +95,7 @@ if (mobileWidth <= 650) {
   var ele = document.getElementById("nav-brand");
   ele.classList.remove("ml-5");
   ele.style.fontSize = "20px";
-  // ele.innerHTML = '<img src="img/logoHindi.png" alt=""> The Gaurik Milk';
+  // ele.innerHTML = '<img src="img/logoHindi.png" alt=""> Gaurik Milk';
 }
 
 if (mobileWidth <= 330) {
