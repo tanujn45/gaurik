@@ -699,6 +699,11 @@ td {
   min-height: 100vh;
 }
 
+#contact .social a {
+  font-size: 30px;
+  color: #000;
+}
+
 #contact .social {
   font-size: 30px;
   color: #000;

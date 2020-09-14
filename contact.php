@@ -27,20 +27,23 @@ session_start();
                         <h4>Our office</h4>
                         <div class="flex-row">
                             <i class="fas fa-map-marked-alt"></i>
-                            <p> J/85/MIG Colony, 202 Surbhi appt<br>Indore, MP (452001)</p>
+                            <p>Narayana Road, Mahidpur, Ujjain, M.P (456443)</p>
                         </div>
                         <div class="flex-row">
                             <i class="fas fa-envelope"></i>
-                            <p>tanujn45@gmail.com</p>
+                            <p>info@gaurikmilk.com</p>
                         </div>
                         <div class="flex-row">
                             <i class="fas fa-phone"></i>
-                            <p>Phone: +91 7999427560</p>
+                            <div style="flex-direction: column;">
+                                <p style="margin-bottom: 10px;">+91 6262 762 762</p>
+                                <p>+91 6262 609 311</p>
+                            </div>
                         </div>
                         <div class="social row">
                             <a href="https://www.instagram.com/gaurikmilk/"><i class="fab mx-3 fa-instagram"></i></a>
                             <a href="https://www.facebook.com/GaurikMilk/"><i class="fab mx-3 fa-facebook"></i></a>
-                            <i class="fab mx-3 fa-linkedin"></i>
+                            <!-- <i class="fab mx-3 fa-linkedin"></i> -->
                         </div>
                     </div>
                 </div>
