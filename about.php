@@ -18,9 +18,8 @@
             <div class="row justify-content-center align-items-center">
                 <div data-aos="fade-right" class="col-lg-5">
                     <h4>About Gaurik Milk</h4>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste rem tenetur inventore laboriosam pariatur repudiandae velit omnis earum ratione? Quam vitae excepturi sit quisquam dolorum culpa
-                    </p>
-                    <p> unde adipisci assumenda fugiat voluptatum placeat doloremque, deleniti ad eum molestias eos ex quibusdam? Dolorem aspernatur consectetur eligendi id cumque dolores voluptatem ut consequuntur?</p>
+                    <p> At Gaurik, we collect milk from more than seven thousand farmers everyday to process and package it with the help of more than 80 trained personnel in our exceedingly efficient one lakh litre capacity plant which is spread over 5 acres. Our highly standardized products pass through several quality checks before leaving the plant. </p>
+                    <p>We are determined to deliver the best product in the most economical price to our loyal customers.</p>
                 </div>
                 <div data-aos="zoom-in" data-aos-delay="500" class="col-lg-7">
                     <img src="img/company/plant-building.jpg" class="img-fluid curved-border" alt="">
@@ -89,14 +88,14 @@
         <section id="founder">
             <div class="container">
                 <div class="row justify-content-center align-items-center">
-                    <div class="col-lg-6">
+                    <div class="col-lg-7">
                         <div class="founder-text">
                             <h3>Founder's Message</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor repellendus tempora minus nesciunt iste. Commodi eligendi, optio tenetur quod quas illum neque dolorum nesciunt iste adipisci aliquam error minima. Doloribus, esse ratione earum aut sint tempora libero omnis hic iusto ducimus nobis repellat, nam impedit ipsum fugiat odit? Cupiditate, dolore!</p>
+                            <p>Here at Gaurik, we work with the clear objective of providing the best quality products to our highly valuable and esteemed customers. Dairy products are an integral part of our balanced diet as well as our prestigious culture. We have shouldered the responsibility to make available healthy and delicious dairy products at best prices. We believe in transparency, integrity, discipline and commitment. We have pledged to never leave our stakeholders unsatisfied.</p>
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                        <img src="img/placeholder.png" class="img-fluid curved-border" alt="">
+                    <div class="col-lg-5">
+                        <img src="img/company/founder.jpg" class="img-fluid curved-border" alt="">
                     </div>
                 </div>
             </div>
@@ -105,13 +104,13 @@
         <section id="future">
             <div class="container">
                 <div class="row justify-content-center align-items-center">
-                    <div class="col-lg-6">
+                    <div class="col-lg-5">
                         <img src="img/company/future.jpg" class="img-fluid curved-border" alt="">
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-7">
                         <div class="future-text">
                             <h3>Company's Future</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor repellendus tempora minus nesciunt iste. Commodi eligendi, optio tenetur quod quas illum neque dolorum nesciunt iste adipisci aliquam error minima. Doloribus, esse ratione earum aut sint tempora libero omnis hic iusto ducimus nobis repellat, nam impedit ipsum fugiat odit? Cupiditate, dolore!</p>
+                            <p>My idea is to provide strength to Gaurik in terms of production facility, supply chain management and customer base. I have seen my father working hard for years and not its time for me to assume responsibility. I have pledged to make sure that the best product reaches out to the customer. I wish to make Gaurik an international brand in next 5 years with the help of farmers of Madhya Pradesh. I wish utilize Gaurik’s brand value to revolutionize this sector in order to empower and uplift the farmers of central India.</p>
                         </div>
                     </div>
                 </div>

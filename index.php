@@ -79,8 +79,8 @@
             <div class="row justify-content-center align-items-center">
                 <div data-aos="fade-up" class="col-lg-4 mb-5">
                     <h3>The Gaurik Family</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium dignissimos facere inventore nemo? Fuga, facilis. Illo quisquam sit totam optio!</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum delectus quod expedita molestiae recusandae possimus natus alias sit?</p>
+                    <p>At Gaurik, we believe that every employ, distributor, vendor and even each and every animal who has somehow contributed to the final product that is consumed by the consumers, is part of Gaurik Family. The family has managed to stay in dairy business from last 58 years and has shown exponential growth after getting into packaged product business. </p>
+                    <p>The family has exhibited exceptional dedication and hard work to establish one of the most prominent dairy brands of central India.</p>
                     <button class="btn">About Us</button>
                 </div>
                 <div data-aos="zoom-in" class="col-lg-8">
@@ -125,7 +125,7 @@
                     <div data-aos="zoom-in-down" data-aos-delay="500" class="row justify-content-center align-items-center" style="height: 70vh;">
                         <div>
                             <h6>Our commitment</h6>
-                            <h4 class="px-5">At Gaurik Dairy, we aim to be the most trusted source of wholesome, delicious dairy products for every occasion. We never forget how fortunate we are to be invited into your home. And we earn our place by holding ourselves to the highest standards.</h4>
+                            <h4 class="px-5">At Gaurik, We aim to work with complete transparency, honesty, integrity and discipline. We are committed to produce, package and distribute the best quality product to our esteemed customers by deploying best personnel, process and equipment. We are determined to provide employment to the locals and business to the farmers. </h4>
                         </div>
                     </div>
                 </div>

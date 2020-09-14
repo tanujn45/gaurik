@@ -17,7 +17,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-8">
-                    <p class="mb-5"> Distribution plays a key role in the growth story. That’s why, Gaurik's distribution centre is located in the heart of Indore and Agra. It’s a one stop destination for all its nearby outlets as well as counter sales. From ghee to curd, all products are easily available with exciting promo offers regularly.</p>
+                    <p class="mb-5"> Almost all quality improvement comes via simplification of design, manufacturing, layout, processes, and procedures. Henceforth, we are determined to continuously improve our delivery system. We understand it’s of paramount importance to reach out to the customer with the right product, at time cost and at right time. Supply Chain Management is the backbone of Dairy Industry. We are proud to introduce our valuable and highly efficient distribution centres. We guarantee our customers effective and speedy delivery. </p>
                 </div>
             </div>
             <div class="centers">
