@@ -12,7 +12,7 @@
                     <h5>Quick Links</h5>
                     <div class="links">
                         <a href="about.php">About Us</a>
-                        <a href="product.php">Products</a>
+                        <a href="products.php">Products</a>
                         <a href="gdc.php">GDC</a>
                         <a href="contact.php">Contact Us</a>
                     </div>
