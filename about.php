@@ -112,7 +112,7 @@
                         <div class="future-text">
                             <h3>Company's Future</h3>
                             <h6>Mr. Rahul Thakur</h6>
-                            <p>My idea is to provide strength to Gaurik in terms of production facility, supply chain management and customer base. I have seen my father working hard for years and not its time for me to assume responsibility. I have pledged to make sure that the best product reaches out to the customer. I wish to make Gaurik an international brand in next 5 years with the help of farmers of Madhya Pradesh. I wish utilize Gaurik’s brand value to revolutionize this sector in order to empower and uplift the farmers of central India.</p>
+                            <p>My idea is to provide strength to Gaurik in terms of the production facility, supply chain management and customer base. I have seen my father working hard for years and now its time for me to assume responsibility. I have pledged to make sure that the best product reaches out to the customer. I wish to make Gaurik an international brand in the next 5 years with the help of farmers of Madhya Pradesh. I wish to utilize Gaurik’s brand value to revolutionize this sector in order to empower and uplift the farmers of central India.</p>
                         </div>
                     </div>
                 </div>
