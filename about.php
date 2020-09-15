@@ -18,7 +18,7 @@
             <div class="row justify-content-center align-items-center">
                 <div data-aos="fade-right" class="col-lg-5">
                     <h4>About Gaurik Milk</h4>
-                    <p> At Gaurik, we collect milk from more than seven thousand farmers everyday to process and package it with the help of more than 80 trained personnel in our exceedingly efficient one lakh litre capacity plant which is spread over 5 acres. Our highly standardized products pass through several quality checks before leaving the plant. </p>
+                    <p>At Gaurik, we collect milk from more than seven thousand farmers everyday to process and package it with the help of more than 80 trained personnel in our exceedingly efficient one lakh litre capacity plant which is spread over 5 acres. Our highly standardized products pass through several quality checks before leaving the plant. </p>
                     <p>We are determined to deliver the best product in the most economical price to our loyal customers.</p>
                 </div>
                 <div data-aos="zoom-in" data-aos-delay="500" class="col-lg-7">
@@ -91,6 +91,7 @@
                     <div class="col-lg-7">
                         <div class="founder-text">
                             <h3>Founder's Message</h3>
+                            <h6>Mr. Subhash Thakur</h6>
                             <p>Here at Gaurik, we work with the clear objective of providing the best quality products to our highly valuable and esteemed customers. Dairy products are an integral part of our balanced diet as well as our prestigious culture. We have shouldered the responsibility to make available healthy and delicious dairy products at best prices. We believe in transparency, integrity, discipline and commitment. We have pledged to never leave our stakeholders unsatisfied.</p>
                         </div>
                     </div>
@@ -110,6 +111,7 @@
                     <div class="col-lg-7">
                         <div class="future-text">
                             <h3>Company's Future</h3>
+                            <h6>Mr. Rahul Thakur</h6>
                             <p>My idea is to provide strength to Gaurik in terms of production facility, supply chain management and customer base. I have seen my father working hard for years and not its time for me to assume responsibility. I have pledged to make sure that the best product reaches out to the customer. I wish to make Gaurik an international brand in next 5 years with the help of farmers of Madhya Pradesh. I wish utilize Gaurik’s brand value to revolutionize this sector in order to empower and uplift the farmers of central India.</p>
                         </div>
                     </div>
