@@ -276,11 +276,9 @@ p {
   bottom: 0;
 }
 
-/* .single-slide .welcome-text {
-  text-align: center;
-  position: relative;
-  z-index: 1;
-} */
+.single-slide .welcome-text {
+  padding-left: 20px;
+}
 
 .single-slide .welcome-text h1 {
   font-family: "Open Sans", sans-serif;
@@ -566,6 +564,17 @@ p {
 
 #products .milk {
   text-align: center;
+}
+
+#products .milk a {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 476px) {
+  #products .milk img {
+    min-width: 280px;
+  }
 }
 
 #products h3 {

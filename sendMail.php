@@ -1,6 +1,6 @@
 <?php
 session_start();
-$email = "tanujn45@gmail.com";
+$email = "info@gaurikmilk.com";
 $sender_name = $_POST['name'];
 $sender_email = $_POST['email'];
 $sender_phone = $_POST['phone'];
