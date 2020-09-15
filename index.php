@@ -65,6 +65,21 @@
                             <div class="welcome-text">
                                 <h1><span style="color: #ffc93c">Gaurik</span> milk</h1>
                                 <h4>Swaad malwa ka</h4>
+                                <a class="btn" href="about.php">About Us</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="single-slide">
+                <div class="slide-bg-img bg-img" style="background-image: url(img/company/plant8.jpg)"></div>
+                <div class="slide-bg-img bg-img" style="background-image: linear-gradient(rgba(4, 92, 140, 0.7), rgba(4, 92, 140, 0.3))"></div>
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <div class="col-12 col-lg-9">
+                            <div class="welcome-text">
+                                <h1><span style="color: #ffc93c">Gaurik</span> milk</h1>
+                                <h4>Swaad malwa ka</h4>
                                 <a class="btn" href="contact.php">Contact Us</a>
                             </div>
                         </div>
