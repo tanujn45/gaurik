@@ -18,7 +18,7 @@
                     <div class="row h-100 align-items-center">
                         <div class="col-12 col-lg-9">
                             <div class="welcome-text">
-                                <h1><span style="color: #ffc93c">The</span> Gaurik milk</h1>
+                                <h1><span style="color: #ffc93c">Gaurik</span> milk</h1>
                                 <h4>Swaad malwa ka</h4>
                                 <a class="btn" href="products.php">Products</a>
                             </div>
@@ -33,7 +33,7 @@
                     <div class="row h-100 align-items-center">
                         <div class="col-12 col-lg-9">
                             <div class="welcome-text">
-                                <h1><span style="color: #ffc93c">The</span> Gaurik milk</h1>
+                                <h1><span style="color: #ffc93c">Gaurik</span> milk</h1>
                                 <h4>Swaad malwa ka</h4>
                                 <a class="btn" href="products.php">Products</a>
                             </div>
@@ -48,7 +48,7 @@
                     <div class="row h-100 align-items-center">
                         <div class="col-12 col-lg-9">
                             <div class="welcome-text">
-                                <h1><span style="color: #ffc93c">The</span> Gaurik milk</h1>
+                                <h1><span style="color: #ffc93c">Gaurik</span> milk</h1>
                                 <h4>Swaad malwa ka</h4>
                                 <a class="btn" href="about.php">About Us</a>
                             </div>
@@ -63,7 +63,7 @@
                     <div class="row h-100 align-items-center">
                         <div class="col-12 col-lg-9">
                             <div class="welcome-text">
-                                <h1><span style="color: #ffc93c">The</span> Gaurik milk</h1>
+                                <h1><span style="color: #ffc93c">Gaurik</span> milk</h1>
                                 <h4>Swaad malwa ka</h4>
                                 <a class="btn" href="contact.php">Contact Us</a>
                             </div>
