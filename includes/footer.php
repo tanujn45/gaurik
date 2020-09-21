@@ -47,6 +47,6 @@
 
 <section id="developer">
     <div class="container">
-        <p>The Gaurik Milk © 2020 | <i class="fas fa-code"></i> with <i class="fas fa-heart"></i> by <a href="tanujnamdeo.me">Tanuj Namdeo</a></p>
+        <p>The Gaurik Milk © 2020 | <i class="fas fa-code"></i> with <i class="fas fa-heart"></i> by <a href="https://tanujnamdeo.me/">Tanuj Namdeo</a></p>
     </div>
 </section>
